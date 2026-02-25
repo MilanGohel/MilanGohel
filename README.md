@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan Gohel</h1>
-<h3 align="center">Founding Engineer | Full-Stack & Microservices Developer</h3>
+<h3 align="center">Founding Engineer | Full-Stack Developer</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" width="350" alt="Coding GIF"/>
 
