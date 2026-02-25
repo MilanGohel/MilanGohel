@@ -11,7 +11,6 @@
 - 🚀 Currently building the future of fintech as a **Founding Engineer** at Aarthik Labs.
 - 🔭 Recently built **Splitzz** (a full-stack Splitwise clone using Next.js & PostgreSQL) and a **Microservices E-commerce Platform** (.NET, Node.js, RabbitMQ).
 - 💡 Deeply interested in **ONDC** (Open Network for Digital Commerce) financial services protocols, personal finance, and robust system architecture.
-- 🐧 Proud Ubuntu user.
 - 📫 Reach out to me at: **milan.gohel66@gmail.com**
 
 <br/>
