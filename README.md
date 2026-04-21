@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Milan Gohel</h1>
+<h3 align="center">Founding Engineer | Full-Stack Developer</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" width="350" alt="Coding GIF"/>
+
+<p align="left">
+  <strong>Building scalable, modern applications with a focus on fintech and e-commerce.</strong>
+</p>
+
+### 👨‍💻 About Me
+- 🚀 Currently building the future of fintech as a **Founding Engineer** at Aarthik Labs.
+- 🔭 Recently built **Splitzz** (a full-stack Splitwise clone using Next.js & PostgreSQL) and a **Microservices E-commerce Platform** (.NET, Node.js, RabbitMQ).
+- 💡 Deeply interested in **ONDC** (Open Network for Digital Commerce) financial services protocols, personal finance, and robust system architecture.
+- 📫 Reach out to me at: **milan.gohel66@gmail.com**
+
+<br/>
+
 ### 🛠️ Languages and Tools
 
 <table align="center">
@@ -66,3 +83,22 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+### 📊 GitHub Stats
+*Designed with a custom true-black, teal, and orange theme.*
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=milangohel&show_icons=true&locale=en&bg_color=000000&title_color=008080&text_color=ffffff&icon_color=ffa500&hide_border=true" alt="milangohel's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=milangohel&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=008080&text_color=ffffff&hide_border=true" alt="milangohel's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milangohel&background=000000&stroke=008080&ring=ffa500&fire=ffa500&currStreakNum=ffffff&currStreakLabel=008080&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="milangohel's GitHub Streak" />
+</p>
+
+<br/>
