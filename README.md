@@ -97,8 +97,5 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=milangohel&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=008080&text_color=ffffff&hide_border=true" alt="milangohel's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milangohel&background=000000&stroke=008080&ring=ffa500&fire=ffa500&currStreakNum=ffffff&currStreakLabel=008080&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="milangohel's GitHub Streak" />
-</p>
 
 <br/>
